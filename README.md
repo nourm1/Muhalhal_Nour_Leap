@@ -58,9 +58,19 @@ _University of Washington Bothell_ |
 ## SKILLS
 
 _Technical_ 
-
-Data Analysis, SPSS (statistical software), HTML, CSS, Advanced in Microsoft Office Suite, Advanced Google Analytics, and Adobe Creative Cloud
+- Data Analysis
+- SPSS (statistical software)
+- HTML 
+- CSS  
+- Advanced in Microsoft Office Suite
+- Advanced Google Analytics 
+- Adobe Creative Cloud
 
 _Personal_
-
-Leadership, innovative, communication, creative, adaptability, detail oriented, and strategic
+- Leadership 
+- Innovative 
+- Communication 
+- Creative 
+- Adaptability 
+- Detail oriented 
+- Strategic
