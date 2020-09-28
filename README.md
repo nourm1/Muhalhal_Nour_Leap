@@ -61,4 +61,5 @@ _Technical_
 
 Data Analysis, SPSS (statistical software), HTML, CSS, Advanced in Microsoft Office Suite, Advanced Google Analytics, and Adobe Creative Cloud
 
+_Personal_
 Leadership, innovative, communication, creative, adaptability, detail oriented, and strategic
