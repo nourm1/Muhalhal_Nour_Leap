@@ -18,7 +18,6 @@ _University of Washington Bothell_ |
 
 **Skills**: Utilized Kentico Content Management System to design our front-end website using HTML and CSS. Learned about Search Engine Optimization through Google Analytics and tracked site usage. 
 
-
 **Policy Analyst Intern**  
 
 _Washington State Department of Social and Health Services_ |
