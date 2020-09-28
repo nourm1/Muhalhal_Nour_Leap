@@ -56,7 +56,7 @@ _University of Washington Bothell_ |
 - Awarded University of Washington -  Das Gupta Educational Leadership Scholarship 2018-2019
 
 ## SKILLS
-Leadership, innovative, communication, creative, adaptability, detail oriented, and strategic
-
-Technical 
+_Technical_ 
 Data Analysis, SPSS (statistical software), HTML, CSS, Advanced in Microsoft Office Suite, Advanced Google Analytics, and Adobe Creative Cloud
+
+Leadership, innovative, communication, creative, adaptability, detail oriented, and strategic
