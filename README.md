@@ -2,9 +2,9 @@
 
 nourmuhalhal@gmail.com
 
-Seattle, WA
-
 [LinkedIn](https://www.linkedin.com/in/nourmuhalhal/) | [Portfolio](https://sites.google.com/view/nourm-portfolio/projects)
+
+Seattle, WA
 
 ## EXPERIENCE
 
