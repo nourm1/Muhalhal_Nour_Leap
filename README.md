@@ -42,7 +42,7 @@ _University of Washington Bothell_ |
 ## EDUCATION
 
 Bachelor of Arts of Psychology and Educational Studies                                                                                      
-_University of Washington Bothell_ 
+_University of Washington Bothell_ |
 06/2020 
 - Highlighted Courses: Social Psychology, Design Thinking, Statistics, and Social Research
 - Awarded University of Washington -  Das Gupta Educational Leadership Scholarship 2018-2019
