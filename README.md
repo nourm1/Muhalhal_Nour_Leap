@@ -14,6 +14,7 @@ _University of Washington Bothell_ |
 09/2019 – 06/2020
 - Creating website layout, testing, and improving process flows using Kentico CMS, HTML, and CSS to increase user engagement with site
 - Collaborate with external teams to implement SEO strategies and competitive analysis resulting in a successful campaign increasing website traffic by 10%
+- Responsible for monthly analytics reporting meeting with internal and external teams regarding user growth
 - Conduct focus groups with stakeholders to ensure users experience and accessibility with website translating into simplifying our online reservation tool
 
 **Skills**: Utilized Kentico Content Management System to design our front-end website using HTML and CSS. Learned about Search Engine Optimization through Google Analytics and tracked site usage. 
